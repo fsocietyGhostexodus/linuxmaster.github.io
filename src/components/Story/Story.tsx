@@ -3,8 +3,8 @@ import {
   FaHandPointRight,
   FaHandPointLeft,
 } from 'react-icons/fa';
-import GeneralModal from '../Shared/GeneralModal';
-import {openUrl} from '../../utils/helpers';
+import GeneralModal from 'components/Shared/GeneralModal';
+import {openUrl} from 'utils/helpers';
 
 const Story = ({
   story,
